@@ -17,6 +17,8 @@ def main() -> None:
     
     # Liste des tâches à exécuter
     jobs = [
+        # Cleaning
+        (SCRIPTS_DIR / "Cleaning.ipynb", BASE_DIR / "Data"),
         # KPI
         (SCRIPTS_DIR / "KPI_mine.ipynb", BASE_DIR / "KPI"),
         (SCRIPTS_DIR / "RecentKPIs.ipynb", BASE_DIR / "KPI"),
