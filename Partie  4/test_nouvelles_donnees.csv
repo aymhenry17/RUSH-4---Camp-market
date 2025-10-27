@@ -1,0 +1,3 @@
+MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,Recency,Income,Kidhome,Teenhome,Education,Marital_Status,AcceptedCmp1,AcceptedCmp2,AcceptedCmp3,AcceptedCmp4,AcceptedCmp5,Age,Response
+500,50,100,50,20,10,10,40000,1,0,Graduation,Married,0,1,0,1,0,30,0
+200,100,150,80,40,5,50,60000,0,1,PhD,Single,1,0,0,1,0,45,1
